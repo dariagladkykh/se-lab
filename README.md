@@ -6,3 +6,5 @@ Status: work in progress
 
 ## Lab 4
 Ishikawa, histogram, defect density done.
+
+Changed my Sofia
